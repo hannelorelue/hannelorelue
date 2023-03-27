@@ -4,8 +4,10 @@ I am a curious physicist with programming experience and an additional degree in
 
 ## My Interests are
 
-* ☕ Java
 * 🐍 Python
+* 🗄️ SQL
+* 🤖 Godot
+* ☕ Java
 * 📱 Swift / SwiftUI
 
 ## Find me elsewhere 🌍
