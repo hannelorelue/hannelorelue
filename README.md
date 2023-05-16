@@ -8,6 +8,7 @@ I am a curious physicist with passion for software development and an additional
 * 🐍 Python
 * 🗄️ SQL
 * 🤖 Godot
+* #️⃣ C#
 
 ## Find me elsewhere 🌍
 
