@@ -12,8 +12,6 @@ I am an curious software developer and technology enthusiast. My passion for sof
 * ⚙️ C++
 
 
-![Top Langs](https://github-readme-stats-ashen-seven-43.vercel.app/api/top-langs/?username=hannelorelue&layout=compact&exclude_repo=github-readme-stats,jekyll-theme-minimal-resume&hide=GAP&hide_progress=true)
-
 ## Find me elsewhere 🌍
 
 [![`[LinkedIn]`](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/hannelore-l%C3%BCbeck-12133224b/)
