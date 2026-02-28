@@ -1,16 +1,14 @@
 # Hi, I'm Hanni 👋
 
-I am an curious software developer and technology enthusiast. My passion for software development makes it easy for me to learn new frameworks, programming languages and methods and to master challenges in complex software projects. Thanks to my University degree in physics and my vocational training as a wholesale and foreign trade management assistant, I can quickly grasp both technical and commercial processes and implement them in software.
+I am an curious software developer and technology enthusiast. My passion for software development makes it easy for me to learn new frameworks, programming languages, and methods and to master challenges in complex projects. Thanks to my successfully completed physics degree, my vocational training as a wholesale and foreign trade clerk (IHK), and my certification as an IT project manager, I can quickly grasp both technical and commercial processes and implement them in software.
 
 ## My Skills are:
-* #️⃣ C# with .NET / WPF
-* 🗄️ SQL (MS-SQL und SQLite)
-* ☕️ Java
+* #️⃣ C# with .NET
+* 🗄️ SQL (MS-SQL)
+* 📝 IT project management
 * 🐍 Python
-* 👩‍🎨 Software Design Patterns
+* 👩‍🎨 Software design patterns
 * 🐧 Linux
-* ⚙️ C++
-
 
 ## Find me elsewhere 🌍
 
